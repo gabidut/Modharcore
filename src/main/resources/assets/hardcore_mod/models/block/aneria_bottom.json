@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "hardcore_mod:blocks/aneria",
+    "particle": "hardcore_mod:blocks/aneria"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Aneria",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aneria"
+    },
+    {
+      "name": "Petaleaneria",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petaleaneria"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.hardcore_mod.aneria": "Aneria",
+      "item.hardcore_mod.petaleaneria": "Pétale Anéria"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "hardcore_mod",
+    "modName": "Hardcore mod",
+    "version": "1.0.0",
+    "author": "Gabriel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "fr.gabidut.hardcoremod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
