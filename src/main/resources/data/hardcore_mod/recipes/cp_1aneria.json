@@ -1,0 +1,42 @@
+{
+  "group": "hardcore_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "1": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "2": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "3": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "4": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "5": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "6": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "7": {
+      "item": "hardcore_mod:petaleaneria"
+    },
+    "8": {
+      "item": "hardcore_mod:petaleaneria"
+    }
+  },
+  "result": {
+    "item": "hardcore_mod:p_1aneria",
+    "count": 1
+  }
+}

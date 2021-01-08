@@ -18,6 +18,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "petaleaneria"
+    },
+    {
+      "name": "P1aneria",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_1aneria"
+    },
+    {
+      "name": "Cp1aneria",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_1aneria"
     }
   ],
   "variable_elements": [],
@@ -25,6 +43,7 @@
   "language_map": {
     "en_us": {
       "block.hardcore_mod.aneria": "Aneria",
+      "item.hardcore_mod.p_1aneria": "P 1aneria",
       "item.hardcore_mod.petaleaneria": "Pétale Anéria"
     }
   },
