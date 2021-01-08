@@ -1,0 +1,42 @@
+{
+  "group": "hardcore_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "1": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "2": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "3": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "4": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "5": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "6": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "7": {
+      "item": "hardcore_mod:p_1aneria"
+    },
+    "8": {
+      "item": "hardcore_mod:p_1aneria"
+    }
+  },
+  "result": {
+    "item": "hardcore_mod:p_2aneria",
+    "count": 1
+  }
+}

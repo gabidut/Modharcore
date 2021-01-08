@@ -36,6 +36,114 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cp_1aneria"
+    },
+    {
+      "name": "P2aneria",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_2aneria"
+    },
+    {
+      "name": "Cp2aneria",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_2aneria"
+    },
+    {
+      "name": "P3aneria",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_3aneria"
+    },
+    {
+      "name": "StuffAneriaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_pickaxe_recipe"
+    },
+    {
+      "name": "StuffAneriaAxeRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_axe_recipe"
+    },
+    {
+      "name": "StuffAneriaSwordRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_sword_recipe"
+    },
+    {
+      "name": "StuffAneriaShovelRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_shovel_recipe"
+    },
+    {
+      "name": "StuffAneriaHoeRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_hoe_recipe"
+    },
+    {
+      "name": "StuffAneriaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_armor_helmet_recipe"
+    },
+    {
+      "name": "StuffAneriaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_armor_body_recipe"
+    },
+    {
+      "name": "StuffAneriaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_armor_leggings_recipe"
+    },
+    {
+      "name": "StuffAneriaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuff_aneria_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -43,6 +151,8 @@
   "language_map": {
     "en_us": {
       "block.hardcore_mod.aneria": "Aneria",
+      "item.hardcore_mod.p_2aneria": "P 2aneria",
+      "item.hardcore_mod.p_3aneria": "P 3aneria",
       "item.hardcore_mod.p_1aneria": "P 1aneria",
       "item.hardcore_mod.petaleaneria": "Pétale Anéria"
     }

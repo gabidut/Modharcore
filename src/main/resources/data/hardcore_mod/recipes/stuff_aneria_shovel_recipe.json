@@ -1,0 +1,24 @@
+{
+  "group": "hardcore_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "hardcore_mod:p_3aneria"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "hardcore_mod:stuff_aneria_shovel",
+    "count": 1
+  }
+}

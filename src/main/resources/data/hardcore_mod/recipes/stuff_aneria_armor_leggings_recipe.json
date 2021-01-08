@@ -1,0 +1,36 @@
+{
+  "group": "hardcore_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "hardcore_mod:p_3aneria"
+    },
+    "1": {
+      "item": "hardcore_mod:p_3aneria"
+    },
+    "2": {
+      "item": "hardcore_mod:p_3aneria"
+    },
+    "3": {
+      "item": "hardcore_mod:p_3aneria"
+    },
+    "5": {
+      "item": "hardcore_mod:p_3aneria"
+    },
+    "6": {
+      "item": "hardcore_mod:p_3aneria"
+    },
+    "8": {
+      "item": "hardcore_mod:p_3aneria"
+    }
+  },
+  "result": {
+    "item": "hardcore_mod:stuff_aneria_armor_leggings",
+    "count": 1
+  }
+}
